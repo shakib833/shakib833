@@ -1,4 +1,4 @@
-<a href="https://ibb.co/DDZ4Rd6"><img src="https://i.ibb.co/jvShrtx/final.gif" alt="final" border="0"></a>
+<img  align="center"  width="980" height="300" src="https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/314862645_1723039774733895_7513350168721354290_n.png?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEwRI1rOHCEtidH2VdRYdnX1A5_GuQucRDUDn8a5C5xEGhcbaUoq_mJWNQZwhOH143XisxxS_DkaSu08vDZd17K&_nc_ohc=lF7T4I9W_FUAX9OYf90&_nc_oc=AQloruAPUuUc9Pa5HaV6a5G5hAcJwzKizDTOJwO2dmvfz4x2MB8IgeMCvGuRDTOlb48&_nc_ht=scontent.fdac138-1.fna&oh=00_AfDo6cy_pvJf5TkAl_UHEEFPjIrKGVPBMf1nU8sFE4Qicw&oe=637CC0C3" alt="Banner">
 <h1 align="center">Hi 👋, I'm Shakib Chowdhury</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
   <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Programming Boy">
